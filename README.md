@@ -1,2 +1,2 @@
 # fullStack_React
-KanBan Board app 
+candite search using git hubs api 
